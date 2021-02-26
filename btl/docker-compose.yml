@@ -1,0 +1,64 @@
+version: "3"
+services:
+  frontend:
+    stdin_open: true
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - REACT_APP_API_DOMAIN=http://localhost:8080
+      - REACT_APP_CHAT_SERVER_DOMAIN=http://localhost:5000
+      # - REACT_APP_API_DOMAIN=http://172.16.116.161:8080 
+      # - REACT_APP_CHAT_SERVER_DOMAIN=http://172.16.116.161:5000 
+
+    volumes: 
+      - ./frontend:/app
+    depends_on:
+    - backend
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - MONGO_HOST=mongo
+      - MONGO_PORT=27017
+      - MONGO_DATABASE=online_learning_backend
+      - ADMIN_NAME=ducanh
+      - ADMIN_EMAIL=ducanh.admin@gmail.com
+      - ADMIN_PASSWORD=123456
+      - JWT_SECRET_KEY=YiKi9EJgIYV7lS7iUskLZmt7xU9k0gAz
+      - JWT_EXPIRES_TIME=86400000
+      - PEPPER=wegkocgxjywglqrqzuefkxofxqtdkaqz
+      - TWILIO_ACCOUNT_SID=AC51bf81e645e06994fe6e63673ab2d461
+      - TWILIO_API_KEY=SK9964dd16d8caeed650e0ed8691a69afa
+      - TWILIO_API_SECRET=MndYBKdcrYxe4xuMhlNLezgwiv1uwWSE
+      
+    volumes: 
+      - ./backend:/app
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes: 
+      - online-learning-db-anhdtd:/data/db
+  chatserver:
+    build: ./chat_server
+    ports:
+      - "5000:5000"      
+
+    environment:
+      - PORT=5000
+      - TWILIO_ACCOUNT_SID=AC51bf81e645e06994fe6e63673ab2d461
+      - TWILIO_API_KEY=SK9964dd16d8caeed650e0ed8691a69afa
+      - TWILIO_API_SECRET=MndYBKdcrYxe4xuMhlNLezgwiv1uwWSE
+      - TWILIO_CHAT_SERVICE_SID=IS575f148944ae491db2a9c19b890d6ecd
+    volumes: 
+      - ./chat_server:/app
+  
+
+volumes: 
+  online-learning-db-anhdtd:
