@@ -1,0 +1,28 @@
+
+2
+XE LIMOUSINE 9 CHỖ
+Xe Khách
+10
+200000
+LIMOUSINE
+2009-10-08
+Tốt
+--------------_____
+3
+ CÁP TREO
+ CÁP TREO
+4
+500000
+Cáp treo Nha Trang
+2012-06-08
+Tốt
+--------------_____
+4
+XÍCH LÔ
+XÍCH LÔ
+2
+200000
+Việt Nam
+2014-06-25
+Tốt
+--------------_____

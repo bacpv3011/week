@@ -1,0 +1,89 @@
+
+1
+Tour test 1
+../data/img/1f642.png
+Hoàng Ngân
+2021-06-16
+2021-06-19
+20000000
+Còn chỗ
+10
+10
+5,2,
+15,16,17,18,
+Lịch trình tour du lịch Sapa
+
+Lịch trình dưới đây là lịch trình tổng hợp, các bạn có thể đi ô tô hoặc xe máy. Ở phía dưới có lịch trình về Phượt Sapa với các điểm đến xa hơn như Y Tý.
+
+Ngày 0 : bạn đi xe khách dịch vụ lên Sapa.
+ 
+Ngày 1 : Sapa – Thác Bạc – đỉnh đèo Ô Quy Hồ – Mường Hoa
+
+Đến Sapa khoảng 7h00, bạn gửi hành lý tại khách sạn. Bạn có thể thuê xe máy, thuê ô tô nếu đi đoàn đông. Do có một hành trình dài trong đêm nên ngày 1 bạn nên đi sao cho thoải mái, nhẹ nhàng, không phải đi bộ nhiều.
+
+8h00 : lên đỉnh đèo Ô Quy Hồ ngắm nhìn những biển mây cuồn cuộn, buổi sáng sớm lên đỉnh đèo sẽ có cảm giác thật dễ chịu.
+
+9h15 : trên đường trở về lại Sapa, bạn dành thời gian thăm quan Thác Bạc, khoảng 1 tiếng tại đây. Nếu bạn thích có thể ngồi ăn nhẹ tại mấy quán Nướng ven đường.
+
+11h00 : về tới Sapa, nhận phòng khách sạn, có thể tắm qua cho đỡ mệt. Sau đó đi ăn trưa, nên dành khoảng 30 phút để nghỉ trưa.
+
+14h00 : chiều bạn có thể đi leo núi Hàm Rồng, dạo quanh các vườn Hoa, và leo lên đỉnh núi ngắm nhìn toàn cảnh thành phố Sapa.
+
+18h30 : ăn tối sớm để còn đi chơi tối. Tối dạo quanh thành phố Sapa, ghé một số quán nướng ven đường, nếu đi mùa lạnh thì cứ xuýt xoa suốt.
+
+Ngày 2 : Sapa – Tả Van – Bãi đá Cổ – Cát Cát
+
+8h00 : xuất phát đi Tả Van, trên đường đi dừng lại một số điểm để chụp ảnh. Nếu bạn thích trekking thì nên đi ô tô, sau đó trek từ Lao Chải tới Tả Van, bạn có thể thuê Guide để đi. Nếu đi xe máy tới Tả Van thì sau khi chơi ở đây, bạn đi tiếp đến Bãi Đá Cổ, và nếu còn sớm thì tới cả Bản Hồ (đi Bản Hồ nếu bạn ở 3 ngày 2 đêm, và chuyển Cát Cát sang ngày hôm sau)
+
+11h00 : về lại Sapa ăn trưa.
+
+13h00 : tiếp tục tới bản Cát Cát, trên đường đi phong cảnh khá đẹp, có thể dừng lại tại Chòi ngắm cảnh để chụp ảnh. Gửi xe sau đó đi bộ xuống bản, đi xuống tận Thác để chơi nhé.
+
+15h00 : nếu bạn đi 2 ngày 3 đêm bằng tàu hỏa thì 15h bạn nên quay lại Sapa và chuẩn bị lên xe xuống Ga Lào Cai.
+
+16h00 : nếu đi xe giường nằm hoặc ở Sapa 3 ngày 4 đêm thì 16h bạn quay lại Sapa, hoặc tùy thời gian bạn đi. Về Sapa ăn uống nghỉ ngơi sau 1 ngày đi bộ mệt.
+
+17h30 : có thể đi tắm lá Dao, lấy lại tinh thần, cũng như thử cảm giác tắm lá thuốc dân tộc.
+
+19h00 : lên Sapa mùa lạnh bạn nên thử các món Lẩu, các món nướng. Địa điểm ăn giá cả hợp lý là khu Chợ Ẩm Thực ngay cạnh quảng trường.
+Ngày 3 : Sapa – Tả Phình
+
+8h00 : ngày cuối bạn cứ thoải mái dậy muộn. Sau khi ăn sáng bạn thu xếp đi thăm bản Tả Phình. Đây là một bản dân tộc Dao, tới bản đi bộ quanh bản, thăm Hang động, nếu thích có thể tắm lá thuốc ở đây.
+
+10h30 : trên đường trở ra bạn cũng có thể dừng lại chụp ảnh, hoặc nếu đi xe máy thì có thể đi loanh quanh khám phá những góc ảnh đẹp. Đoạn đường từ đường cái vào bản có một nhà thờ bỏ hoang cũng khá đẹp.
+
+12h00 : ăn trưa tại Sapa.
+
+Chiều nghỉ ngơi hoặc chơi tại Sapa trước khi về Ga Lào Cai, trở về Hà Nội.
+
+Lưu ý : nếu bạn muốn leo Fansipang 1 ngày thì có thể đi vào ngày thứ 2, dành cả ngày leo Fan. Thời gian ngày 1 và ngày 3 bạn có thể linh động đi các điểm du lịch theo lịch trình trên.
+--------------_____
+2
+Tour Du Lịch Đà Nẵng – Bà Nà – Hội An – Huế – 4 Ngày 3 Đêm
+../data/img/5.PNG
+Đà Nẵng
+2021-06-10
+2021-06-13
+2000000
+Còn chỗ
+10
+10
+6,2,
+18,19,20,21,
+LỊCH TRÌNH TOUR
+NGÀY 01: ĐÀ NẴNG – SƠN TRÀ – NGŨ HÀNH SƠN – PHỐ CỔ HỘI AN (Ăn Trưa, Tối)
+Sáng: Xe và hướng dẫn viên đón quý khách tại điểm hẹn khởi hành ra sân bay Nội bài làm thủ tục đáp chuyến bay đi Đà Nẵng. Đến Đà Nẵng xe và HDV đón Quý khách đi thăm quan Bán Đảo Sơn Trà, bức bình phong của thành phố Đà Nẵng. Viếng thăm Linh Ứng Tự, ngôi chùa rộng lớn, uy nghi với tượng Phật Quan Âm cao nhất Việt Nam. Xe đưa đoàn ăn trưa đặc sản nổi tiếng Đà Nẵng “Bánh tráng thịt heo 2 đầu da & Mỳ Quảng”. Nhận phòng K/sạn nghỉ ngơi.
+Chiều: Quý khách đi thăm quan Khu Danh Thắng Non Nước Ngũ Hành Sơn, quý khách sẽ được chiêm ngưỡng cảnh đẹp bao la với bãi biển xanh biếc, làn cát trắng mịn màng như làn da của cô gái trẻ và khám phá những hang động kỳ bí với những pho tượng phật trang nghiêm mà nhân hậu. Xuống chân núi quý khách ghé thăm làng điêu khắc đá Mỹ Nghệ Non Nước. Quý khách tự do bách bộ thăm quan Phố cổ Hội An với Chùa Cầu 400 năm tuổi, nhà Cổ Tấn Ký hoặc Phùng Hưng, Bảo Tàng gốm sứ, Hội Quán Phước Kiến, Xưởng thủ công mỹ nghệ… Quý khách dùng bữa tối với đặc sản phố Hội: cao lầu, mỳ quảng…và tự do dạo chơi Phố Hội dưới ánh đèn lồng lung linh sắc màu. Đoàn về lại Đà Nẵng. Tự do thưởng ngoạn du thuyền trên sông Hàn ngắm cảnh Đà Thành về đêm, chụp ảnh Cầu Quay Sông Hàn, cầu Rồng phun lửa và nước vào cuối tuần. Nghỉ đêm tại Đà Nẵng.
+NGÀY 02: BÀ NÀ HILLS ĐƯỜNG LÊN TIÊN CẢNH (Ăn Sáng, Trưa, Tối)
+Sáng: Sau bữa điểm tâm xe và Hướng dẫn viên đưa quý khách khởi hành đi tham quan Khu du lịch Bà Nà – điểm nghĩ dưỡng cao cấp của người Pháp vào năm 1910, nằm ở độ cao 1.478m so với mực nước biển. quý khách tận hưởng những khoảnh khắc giao mùa bất ngờ Xuân – Hạ – Thu – Đông trong 1 ngày. Ngồi cáp treo dài nhất thế giới (gần 6.000m), tham quan Đồi Vọng Nguyệt, chùa Linh Ứng, Thích Ca Phật Đài, khu chuồng ngựa cũ của Pháp, vườn tịnh tâm và đỉnh nhà rông. Tiếp tục ngồi cáp treo đến đỉnh Nghinh Phong, biệt thự Lệ Nim, Lầu Vọng Nguyệt, Cầu Treo Bà Nà và chinh phục đỉnh núi Chúa ở độ cao 1.487m so với mực nước biển để thưởng thức quang cảnh núi rừng Bà Nà và toàn cảnh Đà Nẵng và Quảng Nam trên cao. Ăn trưa buffet tại Bà Nà.
+Chiều: Đoàn tự do khám phá Bà Nà Núi Chúa, tham gia các trò chơi tại một trong công viên giải trí tầm cỡ khu vực Fantasy Park ở Bà Nà – (Vòng quay tình yêu, phi công SKIVER, đường đua lửa, cối xay gió, người nhện, tháp rơi xoay tự do…..). Rời Bà Nà xe đưa quý khách trở về Đà Nẵng. Trên đường dừng chân ngắm biển Nguyễn Tất Thành & nghỉ ngơi uống nước, thăm quan quy trình sản xuất trầm hương Phúc Linh 1163 Nguyễn Tất Thành: nơi đây quý khách được hiểu biết thêm về quy trình sản xuất và công dụng của Trầm Hương cũng như thăm quan sản phẩm núi rừng Đất Quảng.
+Về lại khách sạn. Quý khách tự do dạo chơi & tắm biển Mỹ Khê – được tạp chí Forbes bình chọn là 1 trong 6 bãi biển quyến rũ nhất hành tinh. Ăn tối. Nghỉ đêm tại Đà Nẵng.
+NGÀY 03: MỘT NÉT CỐ ĐÔ HUẾ (Ăn Sáng, Trưa, Tối)
+Sáng: Sau khi dùng bữa sáng và làm thủ tục trả phòng tại Khách sạn, xe và Hướng dẫn viên đưa quý khách khởi hành đi Huế. Trên đường dừng chân ở Lăng Cô để ngắm cảnh và chụp hình. Đến nơi thăm quan Lăng vua Tự Đức, được xây dựng từ năm 1864 – 1867 với nét kiến trúc lãng mạn, hoà quyện giữa thiên nhiên và con người, tham quan làng làm nón. Ăn trưa.
+Chiều: Xe đưa Quý khách tiếp tục tham quan Đại Nội kinh đô xưa của vương triều nhà Nguyễn với “Ngọ Môn, điện Thái Hoà, Tả Vu, Hữu Vu, Thế Miếu, cung Diên Thọ, Thái Miếu, Cửu Đỉnh, Hiển Lâm Các, cung Trường Sinh, Phu Văn Lâu, Kỳ Đại, Cửa vị thần công….
+Ăn tối và du thuyền Rồng trên dòng sông Hương nghe ca Huế và thả hoa đăng cầu may. Nghỉ đêm ở Huế.
+
+NGÀY 04: HUẾ – CHỢ ĐÔNG BA – TIỄN KHÁCH (Ăn Sáng, Trưa, Tối)
+Sáng: Điểm tâm tại khách sạn, xe và Hướng dẫn viên đưa quý khách đi tham quan ngôi chùa cổ Thiên Mụ, mua sắm tại Chợ Đông Ba. Ăn trưa
+Đến giờ xe đưa Quý khách ra sân bay Phú Bài làm thủ tục đón chuyến bay lúc…Đến sân bay Nội Bài xe đón Quý khách về lại điểm đón ban đầu. Chào thân ái và tạm biệt quý khách!
+--------------_____
